@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "leandro falcao",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandro-falcao/simples-node-crawling.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leandro-falcao/simples-node-crawling/issues"
+  },
+  "homepage": "https://github.com/leandro-falcao/simples-node-crawling#readme"
 }
